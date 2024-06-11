@@ -1,0 +1,1582 @@
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.loading.resources
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.Properties.Resources.resources
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+C:\Users\ronoa\source\repos\AniList\AniList\bin\Debug\AniList.exe.config
+C:\Users\ronoa\source\repos\AniList\AniList\bin\Debug\AniList.exe
+C:\Users\ronoa\source\repos\AniList\AniList\bin\Debug\AniList.pdb
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.exe
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.pdb
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.account.resources
+C:\Users\ronoa\source\repos\AniList\AniList\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.csproj.CopyComplete
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.exe.config
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.exe
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.pdb
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.loading.resources
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.account.resources
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.Properties.Resources.resources
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.CopyComplete
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.exe
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.pdb
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.login.resources
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.dashboard.resources
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.signup.resources
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.addtolist.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.exe.config
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.exe
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.pdb
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.addtolist.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.loading.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.account.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.login.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.Properties.Resources.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.signup.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.CopyComplete
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.exe
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.pdb
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.urlist.resources
+D:\AniList\AniList\bin\Debug\chrome_100_percent.pak
+D:\AniList\AniList\bin\Debug\chrome_200_percent.pak
+D:\AniList\AniList\bin\Debug\chrome_elf.dll
+D:\AniList\AniList\bin\Debug\d3dcompiler_47.dll
+D:\AniList\AniList\bin\Debug\icudtl.dat
+D:\AniList\AniList\bin\Debug\libcef.dll
+D:\AniList\AniList\bin\Debug\libEGL.dll
+D:\AniList\AniList\bin\Debug\libGLESv2.dll
+D:\AniList\AniList\bin\Debug\LICENSE.txt
+D:\AniList\AniList\bin\Debug\locales\af.pak
+D:\AniList\AniList\bin\Debug\locales\am.pak
+D:\AniList\AniList\bin\Debug\locales\ar.pak
+D:\AniList\AniList\bin\Debug\locales\bg.pak
+D:\AniList\AniList\bin\Debug\locales\bn.pak
+D:\AniList\AniList\bin\Debug\locales\ca.pak
+D:\AniList\AniList\bin\Debug\locales\cs.pak
+D:\AniList\AniList\bin\Debug\locales\da.pak
+D:\AniList\AniList\bin\Debug\locales\de.pak
+D:\AniList\AniList\bin\Debug\locales\el.pak
+D:\AniList\AniList\bin\Debug\locales\en-GB.pak
+D:\AniList\AniList\bin\Debug\locales\en-US.pak
+D:\AniList\AniList\bin\Debug\locales\es-419.pak
+D:\AniList\AniList\bin\Debug\locales\es.pak
+D:\AniList\AniList\bin\Debug\locales\et.pak
+D:\AniList\AniList\bin\Debug\locales\fa.pak
+D:\AniList\AniList\bin\Debug\locales\fi.pak
+D:\AniList\AniList\bin\Debug\locales\fil.pak
+D:\AniList\AniList\bin\Debug\locales\fr.pak
+D:\AniList\AniList\bin\Debug\locales\gu.pak
+D:\AniList\AniList\bin\Debug\locales\he.pak
+D:\AniList\AniList\bin\Debug\locales\hi.pak
+D:\AniList\AniList\bin\Debug\locales\hr.pak
+D:\AniList\AniList\bin\Debug\locales\hu.pak
+D:\AniList\AniList\bin\Debug\locales\id.pak
+D:\AniList\AniList\bin\Debug\locales\it.pak
+D:\AniList\AniList\bin\Debug\locales\ja.pak
+D:\AniList\AniList\bin\Debug\locales\kn.pak
+D:\AniList\AniList\bin\Debug\locales\ko.pak
+D:\AniList\AniList\bin\Debug\locales\lt.pak
+D:\AniList\AniList\bin\Debug\locales\lv.pak
+D:\AniList\AniList\bin\Debug\locales\ml.pak
+D:\AniList\AniList\bin\Debug\locales\mr.pak
+D:\AniList\AniList\bin\Debug\locales\ms.pak
+D:\AniList\AniList\bin\Debug\locales\nb.pak
+D:\AniList\AniList\bin\Debug\locales\nl.pak
+D:\AniList\AniList\bin\Debug\locales\pl.pak
+D:\AniList\AniList\bin\Debug\locales\pt-BR.pak
+D:\AniList\AniList\bin\Debug\locales\pt-PT.pak
+D:\AniList\AniList\bin\Debug\locales\ro.pak
+D:\AniList\AniList\bin\Debug\locales\ru.pak
+D:\AniList\AniList\bin\Debug\locales\sk.pak
+D:\AniList\AniList\bin\Debug\locales\sl.pak
+D:\AniList\AniList\bin\Debug\locales\sr.pak
+D:\AniList\AniList\bin\Debug\locales\sv.pak
+D:\AniList\AniList\bin\Debug\locales\sw.pak
+D:\AniList\AniList\bin\Debug\locales\ta.pak
+D:\AniList\AniList\bin\Debug\locales\te.pak
+D:\AniList\AniList\bin\Debug\locales\th.pak
+D:\AniList\AniList\bin\Debug\locales\tr.pak
+D:\AniList\AniList\bin\Debug\locales\uk.pak
+D:\AniList\AniList\bin\Debug\locales\ur.pak
+D:\AniList\AniList\bin\Debug\locales\vi.pak
+D:\AniList\AniList\bin\Debug\locales\zh-CN.pak
+D:\AniList\AniList\bin\Debug\locales\zh-TW.pak
+D:\AniList\AniList\bin\Debug\README.txt
+D:\AniList\AniList\bin\Debug\resources.pak
+D:\AniList\AniList\bin\Debug\snapshot_blob.bin
+D:\AniList\AniList\bin\Debug\v8_context_snapshot.bin
+D:\AniList\AniList\bin\Debug\vk_swiftshader.dll
+D:\AniList\AniList\bin\Debug\vk_swiftshader_icd.json
+D:\AniList\AniList\bin\Debug\vulkan-1.dll
+D:\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+D:\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+D:\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.exe
+D:\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.pdb
+D:\AniList\AniList\bin\Debug\CefSharp.Core.Runtime.dll
+D:\AniList\AniList\bin\Debug\CefSharp.Core.Runtime.pdb
+D:\AniList\AniList\bin\Debug\CefSharp.Core.Runtime.xml
+D:\AniList\AniList\bin\Debug\AniList.exe.config
+D:\AniList\AniList\bin\Debug\AniList.exe
+D:\AniList\AniList\bin\Debug\AniList.pdb
+D:\AniList\AniList\bin\Debug\CefSharp.Core.dll
+D:\AniList\AniList\bin\Debug\CefSharp.dll
+D:\AniList\AniList\bin\Debug\CefSharp.WinForms.dll
+D:\AniList\AniList\bin\Debug\FontAwesome.Sharp.dll
+D:\AniList\AniList\bin\Debug\Google.Apis.Auth.dll
+D:\AniList\AniList\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\AniList\AniList\bin\Debug\Google.Apis.Core.dll
+D:\AniList\AniList\bin\Debug\Google.Apis.dll
+D:\AniList\AniList\bin\Debug\Google.Apis.PlatformServices.dll
+D:\AniList\AniList\bin\Debug\Google.Apis.YouTube.v3.dll
+D:\AniList\AniList\bin\Debug\Newtonsoft.Json.dll
+D:\AniList\AniList\bin\Debug\CefSharp.pdb
+D:\AniList\AniList\bin\Debug\CefSharp.xml
+D:\AniList\AniList\bin\Debug\CefSharp.Core.pdb
+D:\AniList\AniList\bin\Debug\CefSharp.Core.xml
+D:\AniList\AniList\bin\Debug\CefSharp.WinForms.pdb
+D:\AniList\AniList\bin\Debug\CefSharp.WinForms.xml
+D:\AniList\AniList\bin\Debug\Google.Apis.pdb
+D:\AniList\AniList\bin\Debug\Google.Apis.xml
+D:\AniList\AniList\bin\Debug\Google.Apis.Auth.pdb
+D:\AniList\AniList\bin\Debug\Google.Apis.Auth.xml
+D:\AniList\AniList\bin\Debug\Google.Apis.Core.pdb
+D:\AniList\AniList\bin\Debug\Google.Apis.Core.xml
+D:\AniList\AniList\bin\Debug\Google.Apis.YouTube.v3.pdb
+D:\AniList\AniList\bin\Debug\Google.Apis.YouTube.v3.xml
+D:\AniList\AniList\bin\Debug\Newtonsoft.Json.xml
+D:\AniList\AniList\bin\Debug\Interop.AXVLC.dll
+D:\AniList\AniList\bin\Debug\AxInterop.AXVLC.dll
+D:\AniList\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+D:\AniList\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+D:\AniList\AniList\obj\Debug\Interop.AXVLC.dll
+D:\AniList\AniList\obj\Debug\AxInterop.AXVLC.dll
+D:\AniList\AniList\obj\Debug\AniList.csproj.ResolveComReference.cache
+D:\AniList\AniList\obj\Debug\AniList.addtolist.resources
+D:\AniList\AniList\obj\Debug\AniList.featured.resources
+D:\AniList\AniList\obj\Debug\AniList.loading.resources
+D:\AniList\AniList\obj\Debug\AniList.account.resources
+D:\AniList\AniList\obj\Debug\AniList.login.resources
+D:\AniList\AniList\obj\Debug\AniList.p.resources
+D:\AniList\AniList\obj\Debug\AniList.Properties.Resources.resources
+D:\AniList\AniList\obj\Debug\AniList.signup.resources
+D:\AniList\AniList\obj\Debug\AniList.urlist.resources
+D:\AniList\AniList\obj\Debug\AniList.video.resources
+D:\AniList\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+D:\AniList\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+D:\AniList\AniList\obj\Debug\AniList.csproj.CopyComplete
+D:\AniList\AniList\obj\Debug\AniList.exe
+D:\AniList\AniList\obj\Debug\AniList.pdb
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\chrome_100_percent.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\chrome_200_percent.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\chrome_elf.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\d3dcompiler_47.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\icudtl.dat
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\libcef.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\libEGL.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\libGLESv2.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LICENSE.txt
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\af.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\am.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ar.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\bg.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\bn.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ca.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\cs.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\da.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\de.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\el.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\en-GB.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\en-US.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\es-419.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\es.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\et.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\fa.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\fi.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\fil.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\fr.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\gu.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\he.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\hi.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\hr.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\hu.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\id.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\it.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ja.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\kn.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ko.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\lt.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\lv.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ml.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\mr.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ms.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\nb.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\nl.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\pl.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\pt-BR.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\pt-PT.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ro.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ru.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\sk.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\sl.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\sr.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\sv.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\sw.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ta.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\te.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\th.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\tr.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\uk.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ur.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\vi.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\zh-CN.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\zh-TW.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\README.txt
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\resources.pak
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\snapshot_blob.bin
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\v8_context_snapshot.bin
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\vk_swiftshader.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\vk_swiftshader_icd.json
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\vulkan-1.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.Imaging.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.Math.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.WinForms.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.xml
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.Imaging.xml
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.Math.xml
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.pdb
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.xml
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.pdb
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.xml
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.WinForms.xml
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\Interop.AXVLC.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\Interop.AXVLC.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.ResolveComReference.cache
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.anime.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.featured.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.home.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.video.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.watching.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\chrome_100_percent.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\chrome_200_percent.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\chrome_elf.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\d3dcompiler_47.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\icudtl.dat
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\libcef.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\libEGL.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\libGLESv2.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\LICENSE.txt
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\af.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\am.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\ar.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\bg.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\bn.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\ca.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\cs.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\da.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\de.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\el.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\en-GB.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\en-US.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\es-419.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\es.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\et.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\fa.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\fi.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\fil.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\fr.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\gu.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\he.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\hi.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\hr.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\hu.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\id.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\it.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\ja.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\kn.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\ko.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\lt.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\lv.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\ml.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\mr.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\ms.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\nb.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\nl.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\pl.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\pt-BR.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\pt-PT.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\ro.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\ru.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\sk.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\sl.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\sr.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\sv.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\sw.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\ta.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\te.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\th.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\tr.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\uk.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\ur.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\vi.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\zh-CN.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\locales\zh-TW.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\README.txt
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\resources.pak
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\snapshot_blob.bin
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\v8_context_snapshot.bin
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\vk_swiftshader.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\vk_swiftshader_icd.json
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\vulkan-1.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.BrowserSubprocess.exe
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.BrowserSubprocess.pdb
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.Core.Runtime.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.Core.Runtime.pdb
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.Core.Runtime.xml
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\AniList.exe.config
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\AniList.exe
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\AniList.pdb
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\AForge.xml
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\AForge.Imaging.xml
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\AForge.Math.xml
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.xml
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.Core.xml
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.WinForms.xml
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\Interop.AXVLC.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\Interop.WMPLib.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\AxInterop.AXVLC.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\AxInterop.WMPLib.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\Interop.AXVLC.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\Interop.WMPLib.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AxInterop.AXVLC.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AxInterop.WMPLib.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.csproj.ResolveComReference.cache
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.addtolist.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.anime.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.featured.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.home.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.loading.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.account.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.login.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.p.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.Properties.Resources.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.signup.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.UC.home1.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.UC.series.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.urlist.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.video.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.watching.resources
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.csproj.CopyComplete
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.exe
+D:\Anilist backup 4-30 ver2 gubaon\AniList\obj\Debug\AniList.pdb
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\AForge.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\AForge.Imaging.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\AForge.Math.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.Core.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.WinForms.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\FontAwesome.Sharp.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\Guna.UI2.dll
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.pdb
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.Core.pdb
+D:\Anilist backup 4-30 ver2 gubaon\AniList\bin\Debug\CefSharp.WinForms.pdb
+D:\Anilist backup 5-1\AniList\bin\Debug\chrome_100_percent.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\chrome_200_percent.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\chrome_elf.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\d3dcompiler_47.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\icudtl.dat
+D:\Anilist backup 5-1\AniList\bin\Debug\libcef.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\libEGL.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\libGLESv2.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\LICENSE.txt
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\af.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\am.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\ar.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\bg.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\bn.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\ca.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\cs.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\da.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\de.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\el.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\en-GB.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\en-US.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\es-419.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\es.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\et.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\fa.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\fi.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\fil.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\fr.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\gu.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\he.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\hi.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\hr.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\hu.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\id.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\it.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\ja.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\kn.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\ko.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\lt.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\lv.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\ml.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\mr.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\ms.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\nb.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\nl.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\pl.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\pt-BR.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\pt-PT.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\ro.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\ru.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\sk.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\sl.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\sr.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\sv.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\sw.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\ta.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\te.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\th.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\tr.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\uk.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\ur.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\vi.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\zh-CN.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\locales\zh-TW.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\README.txt
+D:\Anilist backup 5-1\AniList\bin\Debug\resources.pak
+D:\Anilist backup 5-1\AniList\bin\Debug\snapshot_blob.bin
+D:\Anilist backup 5-1\AniList\bin\Debug\v8_context_snapshot.bin
+D:\Anilist backup 5-1\AniList\bin\Debug\vk_swiftshader.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\vk_swiftshader_icd.json
+D:\Anilist backup 5-1\AniList\bin\Debug\vulkan-1.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.BrowserSubprocess.exe
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.BrowserSubprocess.pdb
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.Core.Runtime.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.Core.Runtime.pdb
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.Core.Runtime.xml
+D:\Anilist backup 5-1\AniList\bin\Debug\AniList.exe.config
+D:\Anilist backup 5-1\AniList\bin\Debug\AniList.exe
+D:\Anilist backup 5-1\AniList\bin\Debug\AniList.pdb
+D:\Anilist backup 5-1\AniList\bin\Debug\AForge.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\AForge.Imaging.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\AForge.Math.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.Core.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.WinForms.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\FontAwesome.Sharp.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\Guna.UI2.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\AForge.xml
+D:\Anilist backup 5-1\AniList\bin\Debug\AForge.Imaging.xml
+D:\Anilist backup 5-1\AniList\bin\Debug\AForge.Math.xml
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.pdb
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.xml
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.Core.pdb
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.Core.xml
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.WinForms.pdb
+D:\Anilist backup 5-1\AniList\bin\Debug\CefSharp.WinForms.xml
+D:\Anilist backup 5-1\AniList\bin\Debug\Interop.AXVLC.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\Interop.WMPLib.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\AxInterop.AXVLC.dll
+D:\Anilist backup 5-1\AniList\bin\Debug\AxInterop.WMPLib.dll
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+D:\Anilist backup 5-1\AniList\obj\Debug\Interop.AXVLC.dll
+D:\Anilist backup 5-1\AniList\obj\Debug\Interop.WMPLib.dll
+D:\Anilist backup 5-1\AniList\obj\Debug\AxInterop.AXVLC.dll
+D:\Anilist backup 5-1\AniList\obj\Debug\AxInterop.WMPLib.dll
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.csproj.ResolveComReference.cache
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.addtolist.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.test.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.anime.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.UC.details.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.featured.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.home.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.loading.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.account.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.login.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.dashboard.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.Properties.Resources.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.signup.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.UC.home1.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.UC.series.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.urlist.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.video.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.watching.resources
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.csproj.CopyComplete
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.exe
+D:\Anilist backup 5-1\AniList\obj\Debug\AniList.pdb
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\Guna.UI2.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.test.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.details.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.dashboard.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.home1.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.series.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.table.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.addanime.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.animepage.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\chrome_100_percent.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\chrome_200_percent.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\chrome_elf.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\d3dcompiler_47.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\icudtl.dat
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\libcef.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\libEGL.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\libGLESv2.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\LICENSE.txt
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\af.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\am.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\ar.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\bg.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\bn.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\ca.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\cs.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\da.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\de.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\el.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\en-GB.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\en-US.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\es-419.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\es.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\et.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\fa.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\fi.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\fil.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\fr.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\gu.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\he.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\hi.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\hr.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\hu.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\id.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\it.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\ja.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\kn.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\ko.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\lt.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\lv.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\ml.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\mr.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\ms.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\nb.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\nl.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\pl.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\pt-BR.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\pt-PT.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\ro.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\ru.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\sk.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\sl.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\sr.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\sv.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\sw.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\ta.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\te.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\th.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\tr.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\uk.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\ur.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\vi.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\zh-CN.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\locales\zh-TW.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\README.txt
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\resources.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\snapshot_blob.bin
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\v8_context_snapshot.bin
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\vk_swiftshader.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\vk_swiftshader_icd.json
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\vulkan-1.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\AniList.exe.config
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\AniList.exe
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\AniList.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\AForge.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\AForge.Imaging.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\AForge.Math.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.Core.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.WinForms.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\Guna.UI2.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\AForge.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\AForge.Imaging.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\AForge.Math.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.Core.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.Core.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\CefSharp.WinForms.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\Interop.AXVLC.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\Interop.WMPLib.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\Interop.AXVLC.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\Interop.WMPLib.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.csproj.ResolveComReference.cache
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.addtolist.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.test.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.addanime.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.anime.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.animepage.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.details.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.featured.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.genrebutton.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.loading.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.account.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.login.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.dashboard.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.Properties.Resources.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.signup.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.overview.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.series.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.table.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.temp.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.urlist.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.video.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.watching.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.csproj.CopyComplete
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.exe
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\chrome_100_percent.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\chrome_200_percent.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\chrome_elf.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\d3dcompiler_47.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\icudtl.dat
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\libcef.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\libEGL.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\libGLESv2.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LICENSE.txt
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\af.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\am.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ar.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\bg.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\bn.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ca.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\cs.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\da.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\de.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\el.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\en-GB.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\en-US.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\es-419.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\es.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\et.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\fa.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\fi.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\fil.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\fr.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\gu.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\he.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\hi.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\hr.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\hu.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\id.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\it.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ja.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\kn.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ko.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\lt.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\lv.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ml.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\mr.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ms.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\nb.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\nl.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\pl.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\pt-BR.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\pt-PT.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ro.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ru.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\sk.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\sl.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\sr.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\sv.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\sw.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ta.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\te.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\th.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\tr.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\uk.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ur.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\vi.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\zh-CN.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\zh-TW.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\README.txt
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\resources.pak
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\snapshot_blob.bin
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\v8_context_snapshot.bin
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\vk_swiftshader.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\vk_swiftshader_icd.json
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\vulkan-1.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.exe.config
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.exe
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.Imaging.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.Math.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.WinForms.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\Guna.UI2.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.Imaging.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.Math.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.WinForms.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\Interop.AXVLC.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\Interop.WMPLib.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\Interop.AXVLC.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\Interop.WMPLib.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.ResolveComReference.cache
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.addanime.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.anime.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.animepage.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.details.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.featured.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.genrebutton.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.loading.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.login.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.dashboard.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.Properties.Resources.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.signup.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.home.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.overview.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.series.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.table.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.temp.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.watch.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.watchbutton.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.video.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.watching.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.CopyComplete
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.exe
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.userprofile.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\LiveCharts.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\LiveCharts.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\LiveCharts.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.home.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.userprofile.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.watch.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.watchbutton.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.animeRecom.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.animePic.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.animeMylist.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.animeTop.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.tableFav2.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.tableMylist2.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.tableUpcoming.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.tableRank.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.tableFav.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.tableMylist.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.statsanime.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\Anilist backup\AniList\obj\Debug\AniList.UC.statsprofile.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.animeRecom.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.animePic.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.animeMylist.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.animeTop.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.statsanime.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.statsprofile.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.tableFav2.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.tableMylist2.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.tableUpcoming.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.tableRank.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.tableFav.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.tableMylist.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.useroverview.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.log.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.historylog.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.animeSimple.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.Forms.accountsettings.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.Forms.forgotpass.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\chrome_100_percent.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\chrome_200_percent.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\chrome_elf.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\d3dcompiler_47.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\icudtl.dat
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\libcef.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\libEGL.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\libGLESv2.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LICENSE.txt
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\af.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\am.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ar.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\bg.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\bn.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ca.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\cs.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\da.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\de.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\el.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\en-GB.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\en-US.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\es-419.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\es.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\et.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\fa.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\fi.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\fil.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\fr.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\gu.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\he.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\hi.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\hr.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\hu.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\id.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\it.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ja.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\kn.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ko.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\lt.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\lv.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ml.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\mr.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ms.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\nb.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\nl.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\pl.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\pt-BR.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\pt-PT.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ro.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ru.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\sk.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\sl.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\sr.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\sv.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\sw.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ta.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\te.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\th.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\tr.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\uk.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\ur.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\vi.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\zh-CN.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\locales\zh-TW.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\README.txt
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\resources.pak
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\snapshot_blob.bin
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\v8_context_snapshot.bin
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\vk_swiftshader.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\vk_swiftshader_icd.json
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\vulkan-1.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.exe.config
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.exe
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.pdb
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.Imaging.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.Math.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.WinForms.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\Guna.UI2.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.xml
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.Imaging.xml
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AForge.Math.xml
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.pdb
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.xml
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.pdb
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.Core.xml
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\CefSharp.WinForms.xml
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.pdb
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.xml
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\Interop.AXVLC.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\Interop.WMPLib.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\Interop.AXVLC.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\Interop.WMPLib.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.ResolveComReference.cache
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.Forms.accountsettings.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.addanime.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.Forms.forgotpass.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.animeRecom.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.animePic.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.animeMylist.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.animeSimple.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.animeTop.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.anime.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.animepage.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.details.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.featured.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.genrebutton.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.loading.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.account.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.login.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.dashboard.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.Properties.Resources.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.signup.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.historylog.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.home.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.log.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.overview.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.series.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.statsanime.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.statsprofile.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.tableFav2.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.tableMylist2.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.tableUpcoming.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.tableRank.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.table.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.tableFav.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.tableMylist.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.temp.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.useroverview.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.userprofile.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.watch.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.watchbutton.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.video.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.watching.resources
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.CopyComplete
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.exe
+C:\Users\L25X13W20\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.Forms.admin.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.user.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.adminhome.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.adminactivity.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.adminanime.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.Forms.newanime.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.Forms.newanime2.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.adminuser.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.adminuserlist.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.UC.adminloglist.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.preferences.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.Forms.about.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\chrome_100_percent.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\chrome_200_percent.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\chrome_elf.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\d3dcompiler_47.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\icudtl.dat
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\libcef.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\libEGL.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\libGLESv2.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\LICENSE.txt
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\af.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\am.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ar.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\bg.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\bn.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ca.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\cs.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\da.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\de.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\el.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\en-GB.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\en-US.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\es-419.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\es.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\et.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\fa.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\fi.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\fil.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\fr.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\gu.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\he.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\hi.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\hr.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\hu.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\id.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\it.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ja.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\kn.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ko.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\lt.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\lv.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ml.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\mr.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ms.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\nb.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\nl.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\pl.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\pt-BR.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\pt-PT.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ro.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ru.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\sk.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\sl.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\sr.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\sv.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\sw.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ta.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\te.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\th.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\tr.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\uk.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ur.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\vi.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\zh-CN.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\locales\zh-TW.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\README.txt
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\resources.pak
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\snapshot_blob.bin
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\v8_context_snapshot.bin
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\vk_swiftshader.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\vk_swiftshader_icd.json
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\vulkan-1.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\AniList.exe.config
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\AniList.exe
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\AniList.pdb
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.Imaging.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.Math.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.WinForms.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\Guna.UI2.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.xml
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.Imaging.xml
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.Math.xml
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.pdb
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.xml
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.pdb
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.xml
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.WinForms.xml
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.pdb
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.xml
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\Interop.AXVLC.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\Interop.AXVLC.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.ResolveComReference.cache
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.about.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.accountsettings.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.addanime.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.admin.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.forgotpass.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.newanime.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.newanime2.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.signup.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminactivity.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminanime.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminhome.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminuser.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminloglist.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminuserlist.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.animeRecom.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.animePic.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.animeMylist.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.animeSimple.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.animeTop.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.anime.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.animepage.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.details.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.featured.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.genrebutton.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.loading.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.login.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.dashboard.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Properties.Resources.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.preferences.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.historylog.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.home.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.log.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.overview.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.series.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.statsanime.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.statsprofile.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableFav2.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableMylist2.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableUpcoming.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableRank.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.table.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableFav.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableMylist.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.temp.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.user.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.useroverview.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.userprofile.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.watch.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.watchbutton.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.video.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.watching.resources
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.CopyComplete
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.exe
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.pdb
+C:\Users\Ira Hans\Downloads\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.PremIntro.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\chrome_100_percent.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\chrome_200_percent.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\chrome_elf.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\d3dcompiler_47.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\icudtl.dat
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\libcef.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\libEGL.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\libGLESv2.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\LICENSE.txt
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\af.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\am.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ar.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\bg.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\bn.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ca.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\cs.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\da.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\de.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\el.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\en-GB.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\en-US.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\es-419.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\es.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\et.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\fa.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\fi.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\fil.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\fr.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\gu.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\he.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\hi.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\hr.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\hu.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\id.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\it.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ja.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\kn.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ko.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\lt.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\lv.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ml.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\mr.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ms.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\nb.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\nl.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\pl.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\pt-BR.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\pt-PT.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ro.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ru.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\sk.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\sl.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\sr.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\sv.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\sw.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ta.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\te.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\th.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\tr.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\uk.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ur.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\vi.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\zh-CN.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\zh-TW.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\README.txt
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\resources.pak
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\snapshot_blob.bin
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\v8_context_snapshot.bin
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\vk_swiftshader.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\vk_swiftshader_icd.json
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\vulkan-1.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\AniList.exe.config
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\AniList.exe
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\AniList.pdb
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.Imaging.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.Math.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.WinForms.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.xml
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.Imaging.xml
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.Math.xml
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.pdb
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.xml
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.pdb
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.xml
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.WinForms.xml
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.pdb
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.xml
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.ResolveComReference.cache
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.about.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.accountsettings.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.addanime.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.admin.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.forgotpass.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.newanime.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.newanime2.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.PremCheckout.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.PremDets.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.PremIntro.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.PremWelcome.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.signup.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminactivity.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminanime.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminhome.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminuser.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminloglist.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminuserlist.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.animeRecom.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.animePic.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.animeMylist.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.animeSimple.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.animeTop.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.anime.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.animepage.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.details.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.featured.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.genrebutton.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.loading.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.login.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.dashboard.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Properties.Resources.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.preferences.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.historylog.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.home.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.log.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.overview.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.series.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.statsanime.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.statsprofile.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableFav2.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableMylist2.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableUpcoming.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableRank.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.table.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableFav.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableMylist.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.temp.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.user.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.useroverview.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.userprofile.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.watch.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.watchbutton.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.video.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.watching.resources
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.CopyComplete
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.exe
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.pdb
+C:\Users\Admin\Downloads\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.Ad.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\chrome_100_percent.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\chrome_200_percent.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\chrome_elf.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\d3dcompiler_47.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\icudtl.dat
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\libcef.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\libEGL.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\libGLESv2.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\LICENSE.txt
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\af.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\am.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ar.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\bg.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\bn.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ca.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\cs.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\da.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\de.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\el.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\en-GB.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\en-US.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\es-419.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\es.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\et.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\fa.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\fi.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\fil.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\fr.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\gu.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\he.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\hi.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\hr.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\hu.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\id.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\it.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ja.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\kn.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ko.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\lt.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\lv.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ml.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\mr.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ms.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\nb.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\nl.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\pl.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\pt-BR.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\pt-PT.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ro.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ru.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\sk.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\sl.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\sr.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\sv.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\sw.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ta.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\te.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\th.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\tr.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\uk.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\ur.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\vi.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\zh-CN.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\locales\zh-TW.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\README.txt
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\resources.pak
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\snapshot_blob.bin
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\v8_context_snapshot.bin
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\vk_swiftshader.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\vk_swiftshader_icd.json
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\vulkan-1.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.BrowserSubprocess.exe
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.BrowserSubprocess.pdb
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.Runtime.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.Runtime.pdb
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.Runtime.xml
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\AniList.exe.config
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\AniList.exe
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\AniList.pdb
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.Imaging.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.Math.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.WinForms.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\FontAwesome.Sharp.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\Guna.UI2.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.WinForms.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.Wpf.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.xml
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.Imaging.xml
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\AForge.Math.xml
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.pdb
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.xml
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.pdb
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.Core.xml
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.WinForms.pdb
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\CefSharp.WinForms.xml
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.pdb
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.xml
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.WinForms.pdb
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.WinForms.xml
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.Wpf.pdb
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\LiveCharts.Wpf.xml
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\Interop.AXVLC.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\Interop.WMPLib.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\AxInterop.AXVLC.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\bin\Debug\AxInterop.WMPLib.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\Interop.AXVLC.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\Interop.WMPLib.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AxInterop.AXVLC.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AxInterop.WMPLib.dll
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.ResolveComReference.cache
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.about.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.accountsettings.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.Ad.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.addanime.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.admin.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.forgotpass.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.newanime.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.newanime2.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.PremCheckout.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.PremDets.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.PremIntro.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.PremWelcome.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.signup.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminactivity.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminanime.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminhome.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminuser.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminloglist.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.adminuserlist.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.animeRecom.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.animePic.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.animeMylist.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.animeSimple.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.animeTop.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.anime.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.animepage.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.details.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.featured.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.genrebutton.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.loading.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.login.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.dashboard.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Properties.Resources.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.preferences.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.historylog.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.home.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.log.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.overview.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.series.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.statsanime.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.statsprofile.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableFav2.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableMylist2.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableUpcoming.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableRank.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.table.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableFav.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.tableMylist.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.temp.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.user.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.useroverview.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.userprofile.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.watch.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.UC.watchbutton.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.video.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.watching.resources
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.csproj.CopyComplete
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.exe
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.pdb
+D:\IRA\Downloads\huhusorryILOVEYOU\85\20230525_041100\20230525_041100\AniList\obj\Debug\AniList.Forms.ads.resources

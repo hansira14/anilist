@@ -1,0 +1,78 @@
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.loading.resources
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.Properties.Resources.resources
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+C:\Users\ronoa\source\repos\AniList\AniList\bin\Debug\AniList.exe.config
+C:\Users\ronoa\source\repos\AniList\AniList\bin\Debug\AniList.exe
+C:\Users\ronoa\source\repos\AniList\AniList\bin\Debug\AniList.pdb
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.exe
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.pdb
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.account.resources
+C:\Users\ronoa\source\repos\AniList\AniList\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ronoa\source\repos\AniList\AniList\obj\Debug\AniList.csproj.CopyComplete
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.exe.config
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.exe
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.pdb
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.loading.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.account.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.Properties.Resources.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.CopyComplete
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.exe
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.pdb
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.exe.config
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.exe
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.pdb
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.loading.resources
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.account.resources
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.Properties.Resources.resources
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.CopyComplete
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.exe
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.pdb
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.login.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.login.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.dashboard.resources
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.dashboard.resources
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.signup.resources
+C:\Users\L25Y13W11\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.addtolist.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.addtolist.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.signup.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.exe.config
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.exe
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\AniList.pdb
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.AssemblyReference.cache
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.addtolist.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.loading.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.account.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.login.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.dashboard.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.Properties.Resources.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.signup.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.GenerateResource.cache
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.CoreCompileInputs.cache
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.CopyComplete
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.exe
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.pdb
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.urlist.resources
+C:\Users\ronoa\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.urlist.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\Interop.AXVLC.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.csproj.ResolveComReference.cache
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.anime.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.featured.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.home.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.video.resources
+C:\Users\Ira Hans\OneDrive - Cebu Institute of Technology University\Desktop\CODES\AniList\AniList\obj\Debug\AniList.watching.resources
